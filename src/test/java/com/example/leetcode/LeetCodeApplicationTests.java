@@ -16,7 +16,8 @@ class LeetCodeApplicationTests {
         Map<Integer, Integer> map = new HashMap<>();
         Map<Integer, Integer> map1 = new HashMap<>();
 // test
-        //排序
+// contextLoads
+        //git config --global user.name "New User Name"
 //        Arrays.sort(nums);
         for (int i = 0; i < nums.length; i++) {
             int start = i + 1;
